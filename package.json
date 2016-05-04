@@ -41,6 +41,7 @@
     "postcss-simple-vars": "^1.2.0"
   },
   "dependencies": {
+    "postcss": "^5.0.21",
     "sugarss": "^0.1.3"
   },
   "config": {

@@ -1,10 +1,10 @@
 # source-preview-postcss package
 
-[source-preview][source-preview] provider for [PostCSS][postcss].
+[source-preview] provider for [PostCSS].
 
 ## Requirement
 
-* [source-preview][source-preview]
+* [source-preview]
 
 
 [source-preview]: 	https://atom.io/packages/source-preview

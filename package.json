@@ -46,7 +46,29 @@
   },
   "config": {
     "valid": [
-      "autoprefixer"
+      "atcss",
+      "autoprefixer",
+      "cq-prolyfill",
+      "css-byebye",
+      "css-declaration-sorter",
+      "css-mqpacker",
+      "cssgrace",
+      "cssnano",
+      "csstyle",
+      "level4",
+      "lost",
+      "mdcss",
+      "mq4-hover-shim",
+      "oldie",
+      "perfectionist",
+      "pixrem",
+      "precss",
+      "rtlcss",
+      "rucksack-css",
+      "stylefmt",
+      "stylehacks",
+      "usedcss",
+      "webpcss"
     ]
   },
   "coffeelintConfig": {

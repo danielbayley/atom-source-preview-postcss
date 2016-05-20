@@ -3,8 +3,6 @@ Preview [PostCSS] output in [Atom]
 
 Atom [source-preview] provider for [PostCSS].
 
-? based on the order of dependencies in your `package.json`.
-
 Requirements
 ------------
 * [source-preview]

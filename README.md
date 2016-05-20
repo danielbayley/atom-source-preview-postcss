@@ -1,11 +1,26 @@
-# source-preview-postcss package
+Preview [PostCSS] output in [Atom]
+==================================
 
-[source-preview] provider for [PostCSS].
+Atom [source-preview] provider for [PostCSS].
 
-## Requirement
+? based on the order of dependencies in your `package.json`.
 
+Requirements
+------------
 * [source-preview]
+* [language-postcss]
 
+Install
+-------
+`apm install source-preview-postcss` or search "postcss" under packages within Atom.
 
-[source-preview]: 	https://atom.io/packages/source-preview
-[postcss]: 					http://postcss.org
+License
+-------
+[MIT] © [Daniel Bayley]
+
+[MIT]:								LICENSE.md
+[daniel bayley]:			https://github.com/danielbayley
+[atom]:								https://atom.io
+[source-preview]:			https://atom.io/packages/source-preview
+[postcss]:						http://postcss.org
+[language-postcss]:		https://atom.io/packages/language-postcss
